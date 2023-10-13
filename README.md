@@ -1,0 +1,3 @@
+- connect to mongoDB 
+- hello from Index page
+- create mongo model
