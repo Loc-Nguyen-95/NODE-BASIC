@@ -1,3 +1,5 @@
-- connect to mongoDB 
-- hello from Index page
-- create mongo model
+1. View engine
+2. express.static
+
+- Add product  (get, post)
+- body parser
