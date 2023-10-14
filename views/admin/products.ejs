@@ -21,7 +21,7 @@
                                 <div class="card__content">
                                     <h2 class="product__price">$
                                         <%= product.price %>
-                                    </h2>
+                                    </h2> 
                                     <p class="product__description">
                                         <%= product.description %>
                                     </p>
@@ -31,7 +31,7 @@
                                     <form action="/admin/delete-product" method="POST">
                                         <input type="hidden" value="<%= product._id %>" name="productId">
                                         <button class="btn" type="submit">Delete</button>
-                                    </form>
+                                    </form> 
 
                                 </div>
                             </article>
